@@ -1,4 +1,4 @@
-alias: Sleep as Android MQTT actions deep_sleep
+alias: Sleep as Android MQTT actions deep_sleep  # запуск скрипта сон ( который выключает все звуки на снациях)
 description: ''
 use_blueprint:
   path: IATkachenko/blueprint.yaml
