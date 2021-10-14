@@ -1,4 +1,4 @@
-alias: Sleep as Android MQTT actions smart_period
+alias: Sleep as Android MQTT actions smart_period  #умный будильник который будит в режими легкого сна
 description: ''
 use_blueprint:
   path: IATkachenko/blueprint.yaml
