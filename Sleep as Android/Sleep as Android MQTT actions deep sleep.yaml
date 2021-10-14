@@ -1,0 +1,11 @@
+alias: Sleep as Android MQTT actions deep_sleep
+description: ''
+use_blueprint:
+  path: IATkachenko/blueprint.yaml
+  input:
+    state: home
+    device: 391bQQQQQQQQQQQb492e
+    before_smart_period: []
+    deep_sleep:
+      - service: script.02021
+    person: person.name
